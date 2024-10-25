@@ -1,0 +1,18 @@
+version: '3.8'
+
+name: kirichenkov-threatrix
+
+services:
+  scylla-db:
+    image: scylladb/scylla
+    container_name: scylla-db
+    ports:
+      - "9042:9042"
+    volumes:
+      - scylla_data:/var/lib/scylla
+    environment:
+      - SCYLLA_CONF=/etc/scylla
+      - SCYLLA_API_PORT=10000
+
+volumes:
+  scylla_data:
