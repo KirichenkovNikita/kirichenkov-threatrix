@@ -1,3 +1,32 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repository: https://github.com/zephyrproject-rtos/zephyr
+*    Source File: arch/arm/core/sys_fatal_error_handler.c
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Repository: https://github.com/eclipse/mosquitto
+*    Source File: src/control.c
+*    Licenses:
+*      Eclipse Public License 2.0
+*      SPDXId: EPL-2.0
+*    
+*    
+*    Repository: https://github.com/eclipse/mosquitto
+*    Source File: src/mosquitto.c
+*    Licenses:
+*      Eclipse Public License 1.0
+*      SPDXId: EPL-1.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 
 
 // https://github.com/eclipse/mosquitto/blob/v2.0.1/src/control.c
