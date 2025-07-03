@@ -1,3 +1,18 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repository: https://github.com/Blacktoviche/springboot-graphql-sqqr-jwt-demo
+*    Source File: src/main/java/org/prime/graphql/controller/GraphQLController.java
+*    Licenses:
+*      MIT License
+*      SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 package com.earlystart.kirichenkovthreatrix.controller;
 
 import com.earlystart.kirichenkovthreatrix.service.user.UserService;
