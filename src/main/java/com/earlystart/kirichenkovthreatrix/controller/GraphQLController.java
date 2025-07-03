@@ -1,3 +1,18 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repository: https://github.com/spring-projects/spring-boot
+*    Source File: spring-boot-project/spring-boot-devtools/src/main/java/org/springframework/boot/devtools/livereload/Connection.java
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 package com.earlystart.kirichenkovthreatrix.controller;
 
 import com.earlystart.kirichenkovthreatrix.service.user.UserService;
